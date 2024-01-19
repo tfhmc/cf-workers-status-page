@@ -25,7 +25,7 @@ monitors:
     linkable: true # allows the title to be a link, default=true
 
   - id: launcher-cm-pack-pl
-    name: www.cloudflare.com
+    name: launcher.cm-pack.pl
     description: 'Built for anything connected to the Internet.'
     url: 'https://launcher.cm-pack.pl'
     method: GET
